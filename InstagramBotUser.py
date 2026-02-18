@@ -1,2 +1,2 @@
-username = "edgeofsanity66@hotmail.com"
-password = "download669966"
+username = "ultravioletman66"
+password = "ultravioletman@666"
